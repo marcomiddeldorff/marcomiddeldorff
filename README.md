@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Blazefire.io. It contains several packages for different jobs in GTA:V roleplay. ex. police, ambulance, real estate and car dealer. Discord: https://discord.gg/ZfzGzHvgxS
+🔭 Looking for work...
 
 
 ## 🌐 Socials:
