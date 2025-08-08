@@ -35,6 +35,12 @@ Mit vollständigem UI-Flow, Sicherheitstests und technischer Dokumentation.
 
 > 💡 Ziel: saubere Trennung von Logik, testbare Struktur & Production-Readiness
 
+### 🔐 [invoice-time-tracker](https://github.com/marcomiddeldorff/avyion-2fa-showcase)
+Eine Laravel-basierte Web-Applikation zur Verwaltung von Angeboten, Rechnungen, Kunden, Projekten und Zeiterfassung. 
+Der vollständige UI-Flow – von der Kundenerfassung bis zur PDF-Erstellung und dem E-Mail-Versand – wird durch automatisierte Tests abgesichert.
+
+> 💡 Ziel: Zentrale Plattform zur Zeiterfassung und Rechnungsstellung – für Freelancer und kleine Unternehmen
+
 ---
 
 ## 🧠 Über mich
