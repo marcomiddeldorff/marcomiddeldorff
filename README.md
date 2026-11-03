@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://marcomiddeldorff.de">
+  <a href="https://marcomiddeldorff.de" rel="follow">
     <img src="https://img.shields.io/badge/Webseite-marcomiddeldorff.de-ffc245?style=for-the-badge&labelColor=111111" />
   </a>
 </p>
